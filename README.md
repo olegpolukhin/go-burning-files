@@ -22,6 +22,14 @@ go get -t github.com/otiai10/gosseract
 
 ---
 
+#### Install model lerning
+
+Get model from: https://github.com/tesseract-ocr/tessdata
+
+Move model folder `tessdata` to path: `/usr/local/share/tessdata/`
+
+----
+
 #### Init convert image to text
 
 ```
